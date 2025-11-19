@@ -9,6 +9,7 @@ dependencies = [
     "boto3>=1.40.73",
     "cmake==3.27.0",
     "datasets>=4.0.0",
+    "ipykernel>=7.1.0",
     "pandas>=2.3.3",
     "pyarrow==16.1.0",
     "sagemaker>=2.254.1",
